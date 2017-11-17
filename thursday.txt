@@ -1,9 +1,5 @@
 today is thursday
 tiday is friday
 The vacation branch
-<<<<<<< HEAD
 the thanksgiving branch
-=======
 the thanksgiving branch
-the other branch
->>>>>>> Thanksgiving
